@@ -11,6 +11,6 @@ package com.mycompany.pbo.dua;
 public class PBODua {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Heawd!");
     }
 }
