@@ -1,3 +1,5 @@
+Filenya berada di branch master
+
 # Sistem Manajemen Peternakan Ayam
 
 Program sederhana berbasis Java untuk mengelola data peternakan ayam. Program menggunakan beberapa class, yaitu Kandang, JenisAyam, Pakan, dan PemberianPakan. Data
